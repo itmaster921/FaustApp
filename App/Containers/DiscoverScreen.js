@@ -4,7 +4,7 @@ import {Image, View} from 'react-native'
 import MomentActions from '../Redux/MomentRedux'
 // Styles
 import styles from './Styles/DiscoverScreenStyle'
-import {Images, Metrics} from '../Themes'
+
 import Swiper from 'react-native-swiper'
 
 class DiscoverScreen extends Component {
