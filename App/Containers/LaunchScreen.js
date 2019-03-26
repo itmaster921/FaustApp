@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { ScrollView, Text, Image, View } from 'react-native'
 import { Images } from '../Themes'
+import {Button, FormInput, FormLabel} from 'react-native-elements'
 
 // Styles
 import styles from './Styles/LaunchScreenStyles'
